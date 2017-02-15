@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">port</custom-type>
+        <custom-type translate="1">team</custom-type>
+        <custom-type translate="1">gallery</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">partners</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portcat</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="oyster_copyright" />
+        <key name="oyster_slogan" />
+    </admin-texts>
+</wpml-config>
+
+
